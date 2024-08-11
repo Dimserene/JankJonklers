@@ -1171,7 +1171,6 @@ if config.j_jank_cut_the_cheese then
 		    "j_kcva_fortunecookie",
 		    "j_kcva_swiss",
 		    "j_olab_taliaferro",
-		    "j_olab_royal_gala",
 		    "j_olab_fine_wine",
 		    "j_olab_mystery_soda",
 		    "j_olab_popcorn_bag",
